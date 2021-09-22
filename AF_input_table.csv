@@ -1,0 +1,8 @@
+variable,units,description,lower,median,upper,distribution,variable,source
+max_milling_capacity,ton,maximum amount of maize Gruma can process from the affected area per year,10,,70,posnorm,max_milling_capacity,Ignacio gruma
+min_milling_capacity,ton,break even for efficiency of the mill,5,,9,posnorm,min_milling_capacity,Ignacio gruma
+total_area_harvest,ton,amount of maize harvested by the farmers in the area,60,,110,posnorm,total_area_harvest,Ignacio gruma
+AF_maize_loss,percent,yearly maize loss by AF,20,,100,posnorm,AF_maize_loss,Ignacio gruma
+loca_prize,mxn pesos / ton,price at which gruma buys maize in the area,200,,250,posnorm,,
+import_prize,mxn pesos / ton,price at which gruma buys maize in the US,270,,290,,,
+flour_price,mxn pesos / ton,,,,,,,
